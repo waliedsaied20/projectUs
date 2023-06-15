@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+/* Start Navbar  */
+
+.navbar {
+  background-color: orange;
+}
